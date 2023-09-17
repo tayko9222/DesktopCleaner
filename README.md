@@ -12,58 +12,22 @@ It only demonstrates "how phishing works". You shall not misuse the information 
 
 ##### Clone this repository
 
- - ```git clone https://github.com/tayko9222/screamtool```
+ - ```git clone https://github.com/tayko9222/DesktopCleaner```
 
 ##### Enter the directory
- - ```cd screamtool```
-
-##### Install all modules
- - ```pip install -r requirements.txt```
+ - ```cd DesktopCleaner```
 
 ##### Run the tool
- - ```python SCReam.py```
+ - ```python DesktopCleaner.py```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/tayko9222/screamtool/main/SCReam.py && python SCReam.py
+wget https://raw.githubusercontent.com/tayko9222/DesktopCleaner/main/DesktopCleaner.py && python DesktopCleaner.py
 
 ```
 
-### Installation Termux
-
-##### Clone this repository
-
- - ```git clone https://github.com/tayko9222/screamtool.git```
-
-##### Enter the directory
- - ```cd screamtool```
-
-##### Install all modules
- - ```pip install -r requirements.txt```
-
-##### Run the tool
- - ```python3 SCReam.py```
-
 ### Installation Windows
 
-##### Download the repertory in ZIP
+##### Download the DesktopCleaner.EXE file
 
- - ```Just download```
-
-##### Copy the path where is locate screamtool and do
- - ```cd C:/path/screamtool```
-
-##### Install all modules
- - ```pip install -r requirements.txt```
-
-##### Run the tool
- - ```python SCReam.py```
-
-##### Or just see this tuto and use git clone
- - '''https://www.youtube.com/watch?v=Jge57UHvYto'''
-
-### Docker
-
- - `sudo docker pull tayko9222/screamtool`
- - `sudo docker run --rm -it tayko9222/screamtool`
- - `sudo docker cp $(sudo docker ps | grep screamtool | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
+##### And Launch IT
